@@ -3,7 +3,7 @@ Predictive analysis of state-wise revenue expenditure using machine learning tec
 
 
 🎯 Project Objectives
-Objective 1: Revenue Expenditure Prediction (Regression)
+****Objective 1:** Revenue Expenditure Prediction (Regression)**
 
 To predict state-wise revenue expenditure using supervised learning regression techniques based on historical Indian government budget data.
 
@@ -33,7 +33,7 @@ Root Mean Squared Error (RMSE)
 
 R² Score
 
-Objective 2: Spending Behavior Classification
+**Objective 2: Spending Behavior Classification**
 
 To classify Indian states as over-spending or under-spending based on their revenue expenditure patterns.
 
@@ -69,7 +69,7 @@ F1 Score
 
 Confusion Matrix
 
-Objective 3: Model Performance Comparison
+**Objective 3: Model Performance Comparison**
 
 To compare the performance of tree-based and margin-based classifiers in predicting state expenditure behavior.
 
@@ -91,7 +91,7 @@ F1 Score
 
 Area Under Curve (AUC), if applicable
 
-Objective 4: State-wise Pattern Identification (Clustering)
+**Objective 4: State-wise Pattern Identification (Clustering)**
 
 To identify hidden patterns among Indian states by clustering them based on revenue expenditure characteristics.
 
